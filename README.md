@@ -422,7 +422,7 @@
                        
                         <li><a href="https://www.facebook.com/nitha.ajjhe?mibextid=rS40aB7S9Ucbxw6v"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
                         <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="https://whatsapp.com/dl/ "><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
+                        <li><a href="https://wa.me/0881025471806"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
                         <li><a href="#"><i class="fa fa-envelope-o" aria-hidden="true"></i></a></li>
                         
                         
